@@ -1,0 +1,30 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.usertasks
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
